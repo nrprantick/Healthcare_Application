@@ -1,6 +1,6 @@
 # Healthcare_Application
 
-<p>This is a basic android application implemented to pass in the software development lab-1.</p>
+The project is a very basic android project developed on android studio for the fulfillment of course ECE 2100 titled Software development lab 1. 
 
 For further query contect,
 
