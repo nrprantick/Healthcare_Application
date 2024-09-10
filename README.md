@@ -1,1 +1,1 @@
-# Heathcare_Application
+# Healthcare_Application
